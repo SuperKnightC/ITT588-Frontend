@@ -5,7 +5,7 @@ SILA BACA DAHULU
 ================
 
 Command Wajib Tahu <br>
-npm run dev --- Small Web Server (Guna bila nak bukak dekat web, guna terminal VS Code)<br>
+docker compose up --build                               (Guna bila nak bukak dekat web, guna terminal VS Code)<br>
 
 winget install --id GitHub.cli -------------------------(SILA RUN NI DULU)<br>
 gh auth login ------------------------------------------(Login github acc)<br>
