@@ -14,7 +14,7 @@ gh auth refresh -h github.com -s repo ------------------(Pakai ni kalau ada isu 
 git clone github.com/SuperKnightC/ITT588-Frontend ----- (guna untuk clone repository)
 git pull origin main -----------------------------------(guna ni once kau dah clone, dia just update apa yg berubah)
 
-git add . 
+git add . ----------------------------------------------(tips : ctrl+s dulu )
 git commit -m "tulis mesej dalam ni, kau ubah apa" 
-git push origin main -----------------------------------(guna tiga command ni untuk pugsh)
+git push origin main -----------------------------------(guna tiga command ni untuk push) 
 
